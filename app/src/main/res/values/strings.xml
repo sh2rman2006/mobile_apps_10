@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HardwareLab</string>
+    <string name="main_title">Аппаратные возможности устройства</string>
+    <string name="btn_notification">Отправить уведомление</string>
+    <string name="btn_vibration">Вибрация</string>
+    <string name="btn_camera">Открыть камеру</string>
+
+    <string name="notification_channel_name">Канал уведомлений</string>
+    <string name="notification_channel_description">Канал для учебных уведомлений</string>
+    <string name="notification_title">Напоминание</string>
+    <string name="notification_text">Это тестовое уведомление из лабораторной работы</string>
+</resources>
